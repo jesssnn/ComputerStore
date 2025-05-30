@@ -1,0 +1,15 @@
+<hader> esta cabecera es la parte superior de las paginas web. En este es colocan los elementos mas importantes de la navegación, como el menú principal el logo y los iconos de redes sociales.</heder> 
+
+<main> es una etiqueta que se utiliza para marcar el contenido principal de una pagina web. La idea es tener una sección en la pagina web que contenga el contenido principal y exclusivo de la misma, que no se repita en otras paginas de la web.</main>  
+
+<footer>esta etiqueta se utiliza para definir la sección de pie de pagina de un documento o una sección especifica.
+se incluye información como: 
+derechos de autor, enlaces a políticas de privacidad o términos de uso, información de contacto, enlaces a redes sociales, etc.</footer>  
+
+<nav>el propósito de esta etiqueta es identificar las áreas de navegación principal, facilitando a los navegadores motores de búsqueda, comprender mejor la estructura web y la jerarquía del contenido.
+se utiliza comúnmente para contener enlaces de navegación a las áreas mas importantes del sitio web, como las paginas principales, las categorías o las secciones de contenido relevantes.</nav>  
+
+<ul>esta etiqueta se utiliza para generar listas ya sea ordenadas o desordenadas. como por ejemplo listas de tareas pendientes o listas de ingredientes para una receta. también es posible anidar listas dentro de listas.</ul>  
+
+<a>se utiliza para crear enlaces otros documentos, ya sea dentro en el mismo sitio de sitios web externos.
+sintxis:<a href="url" texto de enlace> </a>    
